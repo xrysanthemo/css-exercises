@@ -1,0 +1,16 @@
+.foo1, 
+.foo2
+{
+    font-size: 28px;
+    font: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+
+.foo1 {
+    color: white;
+    background-color: black;
+}
+
+.foo2 {
+    background-color: yellow;
+}
